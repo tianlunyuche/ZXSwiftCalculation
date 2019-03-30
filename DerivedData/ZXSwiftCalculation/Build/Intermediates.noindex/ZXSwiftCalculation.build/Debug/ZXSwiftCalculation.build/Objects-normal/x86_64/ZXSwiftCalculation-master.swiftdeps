@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "88c57209981cd276faddbc05db24a6c4"
+build_time: [1553610931, 984899000]
+inputs:
+  "/Volumes/WData/iOS/ZXSwiftCalculation/ZXSwiftCalculation/main.swift": !dirty [1553610931, 0]
